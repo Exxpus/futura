@@ -32,7 +32,8 @@ const AnimatedGradientText = ({ children }: { children: React.ReactNode }) => (
 )
 
 export function Rasta() {
-  const [text, setText] = useState('Futuristic interface')
+  const [text] = useState('Futuristic interface')
+  // const [text, setText] = useState('Futuristic interface')
   const [key, setKey] = useState(0)
 
   useEffect(() => {
