@@ -90,7 +90,7 @@ export function Rasta() {
 
       {/* Footer */}
       <footer className="absolute bottom-0 w-full p-4 bg-gray-900 bg-opacity-40 backdrop-blur-md text-center">
-        <p className="text-sm text-gray-400">© 2024 FUTURA. All rights reserved.</p>
+        <p className="text-sm text-gray-400">© 2025 FUTURA. All rights reserved.</p>
       </footer>
     </div>
   )
